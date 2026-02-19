@@ -37,3 +37,7 @@ body {
     padding: 100px 20px;
     background-color: #f4f4f4;
 }
+
+.hero a {
+    color: black;
+}
